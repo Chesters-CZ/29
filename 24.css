@@ -1,0 +1,150 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.thecouple {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#thecoupletu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    padding-top: 5px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+input {
+    margin: 5px;
+}
+
+.kolunmrou {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.top {
+    border: #093a3e 2px solid;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #64e9ee;
+    font-family: Verdana;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.big {
+    font-size: large;
+    border-bottom: solid 2px #093a3e;
+    width: 100%;
+    text-align: center;
+}
+
+.med {
+    font-size: medium;
+}
+
+.btm {
+    border: #093a3e 2px solid;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: #64e9ee;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.rou {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Verdana;
+}
+
+.textarea {
+    width: 250px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+
+.batn {
+    background-color: #97c8eb;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Verdana;
+    color: #1f271b;
+    font-size:17px;
+    padding:5px 10px;
+    text-decoration: none;
+}
+
+input {
+    width: 100%;
+}
+
+.pdd20 {
+    padding: 20px;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.pdd6 {
+    padding: 6px;
+}
+
+.smol {
+    font-size: small;
+}
+
+.justrou {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.samtingwong {
+    color: #ee4266;
+}
+
+.holeefuk {
+    color: #5fad41;
+}
+
+.inp {
+    border: solid #9c9c9c  2px;
+    padding:5px;
+    border-radius:10px;
+    background-color:#97c8eb;
+    color:#1f271b;
+    width: 100%;
+}
